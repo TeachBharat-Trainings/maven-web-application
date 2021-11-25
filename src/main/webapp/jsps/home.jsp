@@ -37,8 +37,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		TeachBharat, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
-		+91-9980923226
-		devopstrainingblr@gmail.com
+		+91-9588689939
+		teachnewbharat@gmail.com
 		<br>
 		<a href="mailto:teachnewbharat@gmail.com">Mail to TeachBharat</a>
 	</span>
